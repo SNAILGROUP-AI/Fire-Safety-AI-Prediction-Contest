@@ -1,6 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=4682B4&customColorList=27&height=175&section=header&text=제2회%20소방%20안전%20AI%20예측%20경진%20&fontSize=60&fontColor=FFA500&animation=twinkling" width=100%/>
-
-# 제2회 소방 안전 AI 예측 경진 대회
+<img src="https://capsule-render.vercel.app/api?type=wave&color=610B0B&customColorList=27&height=175&section=header&text=제2회%20소방%20안전%20AI%20예측%20경진%20대회&fontSize=40&fontColor=DF7401&animation=twinkling" width=100%/>
 
 
 
@@ -44,6 +42,4 @@
 
 ## 🛠 SKILL USED
 
-<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"/> <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
