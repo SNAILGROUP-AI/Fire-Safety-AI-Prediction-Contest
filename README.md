@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=610B0B&customColorList=27&height=175&section=header&text=제2회%20소방%20안전%20AI%20예측%20경진%20대회&fontSize=50&fontColor=DF7401&animation=twinkling" width=100%/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=8A0808&customColorList=27&height=175&section=header&text=제2회%20소방%20안전%20AI%20예측%20경진%20대회&fontSize=50&fontColor=DF7401&animation=twinkling" width=100%/>
 
 
 
