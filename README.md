@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=8A0808&customColorList=27&height=175&section=header&text=Fire%20Safety%20AI%20Prediction%20Contest%202nd&fontSize=45&fontColor=FF8000&animation=twinkling" width=100%/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=8A0808&customColorList=27&height=175&section=header&text=Fire%20Safety%20AI%20Prediction%20Contest%202nd&fontSize=45&fontColor=FF8000&animation=twinkling&stroke=FFFFFF&strokeWidth=1" width=100%/>
 
 
 
