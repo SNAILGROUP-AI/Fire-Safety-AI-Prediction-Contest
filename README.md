@@ -14,15 +14,15 @@
 
 - [**Introduce**](/)
 
-- [**Data Description**](/)
-
 - [**EDA**](/)
 
 - [**Preprocessing**](/)
 
 - [**Model Design**](/)
 
-- [**Prdict**](/)
+- [**Predict**](/)
+
+- [**TroubleShooting**](/)
 
 - [**Code**](/)
 
